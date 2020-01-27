@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7aafae3-1e23-449e-a239-0a8ad512cb8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/products-context.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Products/ProductItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Products/ProductItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Favorites.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Favorites.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/products-context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/products-context.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580153607178</updated>
-      <workItem from="1580153608225" duration="2061000" />
+      <workItem from="1580153608225" duration="2907000" />
     </task>
     <servers />
   </component>
