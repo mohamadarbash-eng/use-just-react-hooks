@@ -17,7 +17,7 @@ export const useStore = () => {
     }
   };
 
-  useState(() => {
+  useEffect(() => {
       listeners.push(setState);
 
       return () => {
